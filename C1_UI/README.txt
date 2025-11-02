@@ -1,0 +1,1 @@
+Esta es la capa de Presentación (UI) del sistema GestorSalud. Aquí van las páginas WebForms/MVC, controladores y viewmodels específicos de la interfaz de usuario.
